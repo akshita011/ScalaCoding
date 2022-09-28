@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: io.github.hakky54:sslcontext-kickstart:7.4.6:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/io/github/hakky54/sslcontext-kickstart/7.4.6/sslcontext-kickstart-7.4.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/io/github/hakky54/sslcontext-kickstart/7.4.6/sslcontext-kickstart-7.4.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/io/github/hakky54/sslcontext-kickstart/7.4.6/sslcontext-kickstart-7.4.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
